@@ -1,0 +1,1 @@
+For the summer of 2025, I was a Student Consultant on the TweetLens project through The Build Fellowship. This repo contains a copy of my Google Colab notebook with my work and results from the project.
